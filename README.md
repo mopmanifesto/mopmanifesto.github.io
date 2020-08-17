@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="#fluentscheduler">
+        <img alt="logo" src="https://github.com/VitorCioletti/MOP/blob/master/icon.png?raw=true">
+    </a>
+</p>
+
 # MOP (Meeting Oriented Programming)
 
 Hold meetings until the program is done
