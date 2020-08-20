@@ -14,7 +14,7 @@
 
 * Everything is urgent, lets schedule an urgent meeting to solve it.
 
-* Schedule 8h day schedule to laugh, tell jokes and say how big and innovative the system will be (this is the most efficient step).
+* Schedule 8h day meeting to laugh, tell jokes and say how big and innovative the system will be (this is the most efficient step).
 
 * If you have a question over a matter, schedule an urgent meeting (do not use email messages ever!).
 
