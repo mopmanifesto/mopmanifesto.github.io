@@ -8,16 +8,48 @@
 
 ### Hold meetings until the code is done
 
-* It is forbidden to code during meetings because it is magically written by some misterious being.
+## About
 
-* Argue about the same thing over and over again in many different meetings and never actually solve the problem.
+This manifesto was written over an urge to improve software developement in many companies we all worked on, where many professionals believe the best way to create simple and well designed systems was through concise, short and clear meetings where everyone know their role. The funniest part is that they actually believe coding is essential to get things working in production.
 
-* Everything is urgent, lets schedule an urgent meeting to solve it.
+## Principles
 
-* Schedule 8h day meeting to laugh, tell jokes and say how big and innovative the system will be (this is the most efficient step).
+We follow these principles:
 
-* If you have a question over a matter, schedule an urgent meeting (do not use email messages ever!).
+It is forbidden to code during meetings because 
+it is magically written by some misterious being.
 
-* Hire as many developers as you can so you can take pictures of meetings to post on Linkedin.
+Argue about the same thing over and over again in many 
+different meetings and never actually solve the problem.
 
-* Use as many computational complex and cool words so no one can understand you.
+Everything is urgent, lets schedule 
+an urgent meeting to solve it.
+
+Schedule 8h day meeting to laugh, tell jokes and say 
+how big and innovative the system will be (this is the most efficient step).
+
+If you have a question over a matter, schedule 
+an urgent meeting (do not use email messages ever!).
+
+Hire as many developers as you can so you 
+can take pictures of meetings to post on Linkedin.
+
+Use as many computational complex 
+and cool words so no one can understand you.
+
+Never ever let your software architect 
+alone and silent concentrating to design a new system
+
+## Contributing
+
+Open a pull request and the legendary authors will review it. Please be sure you understand every principle before submitting any suggestion.
+
+
+## Consulting
+
+## Authors
+
+Nikolas
+Talles Lasmar
+Vitor Cioletti
+Welbert Gomides
