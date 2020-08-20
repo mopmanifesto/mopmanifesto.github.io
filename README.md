@@ -37,7 +37,7 @@ can take pictures of meetings to post on Linkedin.
 Use as many computational complex 
 and cool words so no one can understand you.
 
-Never ever let your software architect 
+Never ever allow your software architect 
 alone and silent concentrating to design a new system
 
 ## Contributing
