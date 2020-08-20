@@ -6,11 +6,9 @@
 
 # Manifesto for MOP (Meeting Oriented Programming)
 
-Hold meetings until the code is done
+### Hold meetings until the code is done
 
-* It is forbidden to code during meetings.
-
-* The code is magically written everytime you hold a metting.
+* It is forbidden to code during meetings because it is magically written by some misterious being.
 
 * Argue about the same thing over and over again in many different meetings and never actually solve the problem.
 
