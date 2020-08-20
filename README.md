@@ -42,14 +42,13 @@ alone and silent concentrating to design a new system
 
 ## Contributing
 
-Open a pull request and the legendary authors will review it. Please be sure you understand every principle before submitting any suggestion.
-
+Open a pull request and the authors will review it. Please be sure you understand every principle before submitting any suggestion.
 
 ## Consulting
 
 ## Authors
 
-Nikolas
-Talles Lasmar
-Vitor Cioletti
-Welbert Gomides
+* [Nikolas Magno]()
+* [Talles Lasmar]()
+* [Vitor Cioletti]()
+* [Welbert Gomides]()
