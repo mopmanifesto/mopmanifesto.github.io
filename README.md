@@ -4,16 +4,20 @@
     </a>
 </p>
 
-# MOP (Meeting Oriented Programming)
+# Manifesto for MOP (Meeting Oriented Programming)
 
-Hold meetings until the program is done
+Hold meetings until the code is done
 
-* No one needs to actually code (everything is done through business meetings).
+* The code is magically written everytime you hold a metting.
 
-* Argue about the same thing over and over again in different meetings.
+* Argue about the same thing over and over again in many different meetings and never actually solve the problem.
 
-* Everything is urgent, lets schedule an urgent meeting to solve them.
+* Everything is urgent, lets schedule an urgent meeting to solve it.
 
-* Schedule 8h/day/week meetings and them put the blame on the developer if the project gets delayed.
+* Schedule 8h day schedule to laugh, tell jokes and say how big and innovative the system will be (this is the most efficient step).
 
-* If you have a question over a matter, schedule an urgent meeting.
+* If you have a question over a matter, schedule an urgent meeting (do not use email messages ever!).
+
+* Hire as many developers as you can so you can take pictures of meetings to post on Linkedin.
+
+* Use as many computational complex and cool words so no one can understand you.
