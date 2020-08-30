@@ -16,35 +16,27 @@ This manifesto was written over an urge to improve software development in many 
 
 We follow these principles:
 
-It is forbidden to code during meetings because 
-it is magically written by some misterious being.
+0 - It is forbidden to code during meetings because it is magically written by some mysterious being.
 
-Argue about the same thing over and over again in many 
-different meetings and never actually solve the problem.
+1 - Argue about the same thing over and over again in many different meetings and never actually solve the problem.
 
-Everything is urgent, lets schedule 
-an urgent meeting to solve it.
+2 - Everything is urgent, lets schedule an urgent meeting to handle it.
 
-Schedule 8h day meeting to laugh, tell jokes and say 
-how big and innovative the system will be (this is the most efficient step).
+3 - Schedule 8h day meeting to laugh, tell jokes and say how big and innovative the system will be (this is the most efficient step).
 
-If you have a question over a matter, schedule 
-an urgent meeting (do not use email messages ever!).
+4 - If you have a question over a matter, schedule an urgent meeting (use email messages like... never).
 
-Hire as many developers as you can so you 
-can take pictures of meetings to post on Linkedin.
+5 - Hire as many developers as you can so you can take pictures of meetings to post on Linkedin.
 
-Use as many computational complex 
-and cool words so no one can understand you.
+6 - Use as many computational complex and cool words so no one can understand you.
 
-Never ever allow your software architect 
-alone and silent concentrating to design a new system
+7 - Never ever allow your software architect alone and silent concentrating to design a new system.
+
+8 - Use as many agile methodologies your tech guru has demanded you to.
 
 ## Contributing
 
-Open a pull request and the authors will review it. Please be sure you understand every principle before submitting any suggestion.
-
-## Consulting
+Open a pull request and the authors will review it. Please be sure you understand every principle before submitting any suggestions.
 
 ## Authors
 
