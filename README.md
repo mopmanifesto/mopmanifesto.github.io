@@ -10,7 +10,7 @@
 
 ## About
 
-This manifesto was written over an urge to improve software developement in many companies we all worked on, where many professionals believe the best way to create simple and well designed systems is through concise, short and clear meetings where everyone know their role. The funniest part is that they actually believe coding is essential to get things working in production.
+This manifesto was written over an urge to improve software development in many companies we all worked on, where many professionals believe the best way to create simple and well designed systems is through concise, short and clear meetings where everyone know their role. The funniest part is that they actually believe coding is essential to get things working in production.
 
 ## Principles
 
