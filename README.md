@@ -30,7 +30,7 @@ We follow these principles:
 
 6 - Use as many computational complex and cool words so no one can understand you.
 
-7 - Never ever allow your software architect alone and silent concentrating to design a new system.
+7 - Never allow your software architect alone and silent concentrating to design a new system.
 
 8 - Use as many agile methodologies your tech guru has demanded you to.
 
@@ -40,7 +40,7 @@ Open a pull request and the authors will review it. Please be sure you understan
 
 ## Authors
 
-* [Nikolas Magno]()
-* [Talles Lasmar]()
-* [Vitor Cioletti]()
-* [Welbert Gomides]()
+* [Nikolas Magno](https://github.com/nikolasmagno)
+* [Talles Lasmar](https://github.com/tallesl)
+* [Vitor Cioletti](https://github.com/VitorCioletti)
+* [Welbert Gomides](https://github.com/tallesl)
