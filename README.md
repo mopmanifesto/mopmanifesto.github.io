@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#fluentscheduler">
+    <a>
         <img alt="logo" src="https://github.com/VitorCioletti/MOP/blob/master/icon.png?raw=true">
     </a>
 </p>
