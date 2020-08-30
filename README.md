@@ -43,4 +43,4 @@ Open a pull request and the authors will review it. Please be sure you understan
 * [Nikolas Magno](https://github.com/nikolasmagno)
 * [Talles Lasmar](https://github.com/tallesl)
 * [Vitor Cioletti](https://github.com/VitorCioletti)
-* [Welbert Gomides](https://github.com/tallesl)
+* [Welbert Gomides](https://github.com/welbertwpg)
