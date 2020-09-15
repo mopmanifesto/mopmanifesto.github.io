@@ -34,6 +34,11 @@ We follow these principles:
 
 8 - Use as many agile methodologies your tech guru has demanded you to.
 
+9 - Select just few skilful developers to handle all the hard work, so all other team members will be available to anytime meetings.
+
+10 - Be always prepared for the _`HUH?`_ moment, when your Project Manager pretending isn't listening ignores everything you saying.
+
+
 ## Contributing
 
 Open a pull request and the authors will review it. Please be sure you understand every principle before submitting any suggestions.
@@ -44,3 +49,4 @@ Open a pull request and the authors will review it. Please be sure you understan
 * [Talles Lasmar](https://github.com/tallesl)
 * [Vitor Cioletti](https://github.com/VitorCioletti)
 * [Welbert Gomides](https://github.com/welbertwpg)
+* [Bruno Maia](https://github.com/bc-maia)
