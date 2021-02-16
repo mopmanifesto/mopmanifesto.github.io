@@ -33,3 +33,7 @@ We follow these principles:
 7 - Never allow your software architect alone and silent concentrating to design a new system.
 
 8 - Use as many agile methodologies your tech guru has demanded you to.
+
+9 - Select just few skilful developers to handle all the hard work, so all other team members will be available to anytime meetings.
+
+10 - Be always prepared for the _`HUH?`_ moment, where your Project Manager ignores everything you say.
