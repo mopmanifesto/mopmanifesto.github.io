@@ -33,14 +33,3 @@ We follow these principles:
 7 - Never allow your software architect alone and silent concentrating to design a new system.
 
 8 - Use as many agile methodologies your tech guru has demanded you to.
-
-## Contributing
-
-Open a pull request and the authors will review it. Please be sure you understand every principle before submitting any suggestions.
-
-## Authors
-
-* [Nikolas Magno](https://github.com/nikolasmagno)
-* [Talles Lasmar](https://github.com/tallesl)
-* [Vitor Cioletti](https://github.com/VitorCioletti)
-* [Welbert Gomides](https://github.com/welbertwpg)
